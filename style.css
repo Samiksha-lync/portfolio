@@ -46,9 +46,9 @@
   width: 70%;
   height: 90%;
   margin-top: 2rem;
-  background-image: url(Images/simon-de-vries-UQluWXKUn7A-unsplash.jpg);
+  background-image: url('images/simon-de-vries-UQluWXKUn7A-unsplash.jpg');
   background-size: cover;
-  background-position: 0 -280px;
+  background-position: center;
   background-repeat: no-repeat;
   position: relative;
 }
